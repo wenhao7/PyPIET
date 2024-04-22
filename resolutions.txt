@@ -1,0 +1,21 @@
+---
+Edit the values below within the file to control the folders and resolutions that will be created.
+i.e. if I want my files to be created in a folder named "ABC" for two resolutions 1920x1080 and 1000x1000
+
+ABC
+1920,1080
+1000,1000
+
+Note that resolutions are separated by a comma.
+---
+ABC
+1920,1080
+1200,1800
+1200,1200
+Test
+500,500
+
+
+
+
+

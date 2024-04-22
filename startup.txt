@@ -1,0 +1,6 @@
+---
+1. Click on "Folder.." button at the top left and select your image folders
+2. Click on "Edit Resolutions" button and select "resolutions.txt" file that came with this program
+3. Click on "Save Resolutions" button to save the changes you made to "resolutions.txt"
+4. Click on "Run" button to start generating the relevant folders and image outputs
+---
